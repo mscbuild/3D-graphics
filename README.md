@@ -2,8 +2,8 @@
 
 **Captivating web applications using modern technologies, 3D graphics and creative code.**
 
-I envision an elegant, immersive interface where luminous forms dance in the darkness, reflecting the spirit of creative exploration.
-Each section unfolds purposefully—impressive depth, carefully curated showcases, vibrant markers of expertise, and a consistent call to engagement.
+Here I present an elegant, captivating interface where luminous forms dance in the darkness, reflecting the spirit of creative exploration.
+Each section unfolds purposefully—impressive depth, carefully curated showcases, vibrant indicators of expertise, and a constant call to interaction.
 The design pulsates with modern elegance, combining transparency, glow, and movement to tell a story of vision and precision.
 
 ## Screenshots
