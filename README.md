@@ -5,6 +5,8 @@
 Here I present an elegant, captivating interface where luminous forms dance in the darkness, reflecting the spirit of creative exploration.
 Each section unfolds purposefully—impressive depth, carefully curated showcases, vibrant indicators of expertise, and a constant call to interaction.
 The design pulsates with modern elegance, combining transparency, glow, and movement to tell a story of vision and precision.
+Each component is designed to respond intuitively to user presence, with fluid animations and a responsive layout that enhances engagement.
+The interface harmonizes sleek navigation with an evolving backdrop of interactive geometry, creating a sense of depth and innovation
 
 ## Screenshots
 
