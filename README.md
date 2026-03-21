@@ -23,3 +23,7 @@ The interface harmonizes sleek navigation with an evolving backdrop of interacti
 <img width="1348" height="700" alt="crypto" src="https://github.com/user-attachments/assets/7f318019-7e6e-4049-9aaf-7818d112d7d3" />
 <br>
  Powered by <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;"> @mscbuild</a><br>
+
+### License
+
+Licensed under [MIT][mit].
