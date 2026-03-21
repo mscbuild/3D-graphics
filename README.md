@@ -21,8 +21,10 @@ The interface harmonizes sleek navigation with an evolving backdrop of interacti
 <img width="1344" height="703" alt="Neon" src="https://github.com/user-attachments/assets/91c93623-7507-41e1-811d-5035366405db" />
 <img width="1352" height="707" alt="absctraction" src="https://github.com/user-attachments/assets/a4261993-168b-44ce-8435-85ff98fc56be" />
 <img width="1348" height="700" alt="crypto" src="https://github.com/user-attachments/assets/7f318019-7e6e-4049-9aaf-7818d112d7d3" />
-<br>
+ 
+
 ## Technologies Used:
+
 - HTML, CSS, Bootstrap, JavaScript
 - JavaScript Graphics: particles.js, WOW
 - JavaScript libraries:Slick, jQuery, core-js 
