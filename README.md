@@ -27,7 +27,7 @@ The interface harmonizes sleek navigation with an evolving backdrop of interacti
 
 - HTML, CSS, Bootstrap, JavaScript
 - JavaScript Graphics: particles.js, WOW
-- JavaScript libraries:Slick, jQuery, core-js 
+- JavaScript libraries: Slick, jQuery, core-js 
 - AOS Library (for cool fade effects)
 - Fonts: Google Font API, Font Awesome
 - CDN: Cloudflare, jQuery, cdnjs, Fastly
