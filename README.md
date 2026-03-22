@@ -6,7 +6,7 @@
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/mscbuild/3D-graphics/)
 [![Author](https://img.shields.io/badge/Author-Yuri%20Dev-blue.svg)](https://mscbuild.github.io/)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/mscbuild/3D-graphics/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-21%20Mart%202026-yellow.svg)](https://github.com/mscbuild/3D-graphics/commit/master)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-21%20Mart%202026-yellow.svg)](https://github.com/mscbuild/3D-graphics/)
 
  
 **Captivating web applications using modern technologies, 3D graphics and creative code.**
