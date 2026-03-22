@@ -3,7 +3,7 @@
 [demo]: https://mscbuild.github.io/case-study/
 
 # 🌐 Building Digital Dreams
-[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+<img src="https://camo.githubusercontent.com/cbb03b1248b3521b3b1f348c755d605076f47b75f1e1898a28c91b0fb6f44107/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706f7369746f72792532305374617475732d4d61696e7461696e65642d6461726b253230677265656e2e737667" alt="Repository Status" data-canonical-src="https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg" style="max-width: 100%;">
 
 **Captivating web applications using modern technologies, 3D graphics and creative code.**
 
