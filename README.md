@@ -2,7 +2,7 @@
 [repo]: https://github.com/mscbuild/case-study/
 [demo]: https://mscbuild.github.io/case-study/
 
-# Building Digital Dreams
+# 🌐 Building Digital Dreams
 
 **Captivating web applications using modern technologies, 3D graphics and creative code.**
 
