@@ -17,7 +17,7 @@ The design pulsates with modern elegance, combining transparency, glow, and move
 Each component is designed to respond intuitively to user presence, with fluid animations and a responsive layout that enhances engagement.
 The interface harmonizes sleek navigation with an evolving backdrop of interactive geometry, creating a sense of depth and innovation
 
-##### [Test it out here][demo]
+##### [ View Live Preview][demo]
 
 ## Screenshots
 
