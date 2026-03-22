@@ -76,17 +76,21 @@ The interface harmonizes sleek navigation with an evolving backdrop of interacti
 - Fixed navbar
 - Scroll-based blur effect
 - Smooth anchor navigation
+ 
 **🔹 Hero Section**
 - Main branding message
 - Call-to-action buttons
 - 3D animated background
+  
 **🔹 Tech Stack**
 - Tag-style display of technologies
 - Hover glow interactions
+  
 **🔹 Projects Grid**
 - Card-based layout
 - Image zoom on hover
 - Project descriptions + links
+  
 **🔹 Footer**
 - Minimal copyright
 
