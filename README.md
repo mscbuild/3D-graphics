@@ -77,6 +77,7 @@ The interface harmonizes sleek navigation with an evolving backdrop of interacti
 - Centered hero content
 
 # 4. 🧩 Component-Based Sections
+
 **🔹 Navigation**
 - Fixed navbar
 - Scroll-based blur effect
@@ -98,15 +99,6 @@ The interface harmonizes sleek navigation with an evolving backdrop of interacti
   
 **🔹 Footer**
 - Minimal copyright
-
-# Design System
-
-| Variable        | Value   | Usage      |
-| --------------- | ------- | ---------- |
-| `--bg-color`    | #050505 | Background |
-| `--neon-purple` | #b026ff | Accents    |
-| `--neon-cyan`   | #00f3ff | Highlights |
-| `--neon-pink`   | #ff0055 | Gradients  |
 
 # UI Patterns
 - **Glassmorphism**
