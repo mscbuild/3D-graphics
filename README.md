@@ -1,6 +1,6 @@
 [mit]: http://www.opensource.org/licenses/mit-license.php
-[repo]: https://github.com/mscbuild/case-study/
-[demo]: https://mscbuild.github.io/case-study/
+[repo]: https://github.com/mscbuild/3D-graphics/
+[demo]: https://mscbuild.github.io/3D-graphics/
 
 # 🌐 Building Digital Dreams
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mscbuild.github.io/3D-graphics/)
