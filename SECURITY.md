@@ -34,8 +34,15 @@ If you are running a version listed as End of Life, you should upgrade immediate
 Severity determines remediation priority and disclosure timing.
 
 ---
+## Security Considerations for 3D Graphics
 
+As a graphics engine, this project is particularly sensitive to the following risks:
+*   **Buffer Overflows**: Standard risks in C++ development, especially during memory-intensive rendering tasks.
+*   **Malicious Assets**: Loading untrusted `.obj`, `.gltf`, or other 3D model files can lead to arbitrary code execution if the parser is not secure.
+*   **Shader Vulnerabilities**: Exploits targeting GPU drivers through maliciously crafted shader code.
+*   **Denial of Service (DoS)**: Assets designed to crash the renderer or hang the GPU.
 
+---
 ## Reporting a Vulnerability
 
 Please do not report security vulnerabilities through public GitHub issues.
