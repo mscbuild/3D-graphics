@@ -74,3 +74,6 @@ Please include as much of the information listed below as you can to help us bet
 **If the issue is confirmed as a vulnerability, the team will proceed to create a private GitHub security advisory within the affected package's GitHub repo**
 
 **Once the fix is ready, it will be merged back into the original repository and a release will be generated. The private security advisory will also be published (i.e. made public) so that package users can be notified in a timely manner.**
+
+## Security Best Practices
+We recommend all contributors use [Static Application Security Testing (SAST)](https://github.com/JupiterOne/security-policy-templates/blob/main/summary.md) tools and memory sanitizers (like AddressSanitizer) when testing new rendering features.
