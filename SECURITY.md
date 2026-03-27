@@ -43,6 +43,10 @@ As a web-based 3D background engine, we prioritize protection against:
 *   **Shader Logic Flaws**: Exploits in custom GLSL code that might bypass browser sandboxing.
 *   **Dependency Vulnerabilities**: Security flaws in `three.js` or its loaders (GLTFLoader, etc.).
 
+## Security Best Practices for Users
+*   **Sanitize Inputs**: If you allow users to change colors or text in the 3D scene, ensure inputs are sanitized to prevent XSS.
+*   **Content Security Policy (CSP)**: We recommend using a strict CSP to prevent unauthorized scripts from interacting with the WebGL context.
+*   **Update Dependencies**: Run `npm audit` regularly to ensure `three` and other packages are up to date.
 ---
 ## Reporting a Vulnerability
 
@@ -76,7 +80,4 @@ Please include as much of the information listed below as you can to help us bet
 
 **Once the fix is ready, it will be merged back into the original repository and a release will be generated. The private security advisory will also be published (i.e. made public) so that package users can be notified in a timely manner.**
 
-## Security Best Practices for Users
-*   **Sanitize Inputs**: If you allow users to change colors or text in the 3D scene, ensure inputs are sanitized to prevent XSS.
-*   **Content Security Policy (CSP)**: We recommend using a strict CSP to prevent unauthorized scripts from interacting with the WebGL context.
-*   **Update Dependencies**: Run `npm audit` regularly to ensure `three` and other packages are up to date.
+ 
