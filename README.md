@@ -3,7 +3,7 @@
 [demo]: https://mscbuild.github.io/3D-graphics/
 
 # 🌐 Building Digital Dreams
-[![Website Status](https://img.shields.io/badge/Repository%20Status-Online-green)](https://mscbuild.github.io/3D-graphics/)
+[![Website Status](https://img.shields.io/badge/Repository%20Status-Maintained-green)](https://mscbuild.github.io/3D-graphics/)
 [![Author](https://img.shields.io/badge/Author-Yuri%20Dev-blue.svg)](https://mscbuild.github.io/)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mscbuild.github.io/3D-graphics/)
 ![Repo Size](https://img.shields.io/github/repo-size/mscbuild/3D-graphics)
